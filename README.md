@@ -8,7 +8,7 @@ Providers: Google web, Youdao web, LibreTranslate and OpenAI-compatible AI. Lega
 
 Interface localization is NOT shared. This package never reads environment API keys or a Keychain.
 
-This is an unpublished local development module. SkillView and CatView currently use a sibling checkout through `replace github.com/sogud/translate-kit => ../translate-kit`. No remote version or tag is available yet. The source is MIT licensed; dependency notices must be completed before distribution.
+Install with `go get github.com/sogud/translate-kit@v0.1.0`. The source is MIT licensed; see [third-party notices](THIRD_PARTY_NOTICES.md) for dependency licenses and upstream source links.
 
 
 ## Use
